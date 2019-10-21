@@ -1,5 +1,7 @@
 # json-dataset-countries
-This is a a comprehensive JSON dataset of countries and territories, in total there are 248 entitles
+This is a a comprehensive JSON dataset of countries and territories, in total there are 248 entities
+
+It can also be imported into MongoDB into a collectio.
 
 Includes for each entry are
 * Name
